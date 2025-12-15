@@ -1,0 +1,17 @@
+# Rust
+/target/
+
+# SwiftPM
+/.build/
+/Packages/
+/.swiftpm/
+
+# Xcode
+DerivedData/
+*.xcuserdata/
+
+# macOS
+.DS_Store
+
+# Generated bindings (optional)
+*.swift
